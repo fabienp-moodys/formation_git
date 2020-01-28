@@ -34,5 +34,5 @@ gem 'jungle_test'
 
 And then execute:
 ```bash
-$ gem install jungle_testtotot
+$ gem install jungle_testtototo
 ```
