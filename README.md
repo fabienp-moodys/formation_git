@@ -19,7 +19,6 @@ For this first exercise, you can use the language of your choice: Ruby, Elixir o
 use these languages ​​on a daily basis, but any other language can be used as long as the rendering is readable and intelligible.
 
 Also, we expect for this exercise to see a minimum of unit tests.
-<<<<<<< HEAD
 
 ## Solution
 
@@ -37,5 +36,3 @@ And then execute:
 ```bash
 $ gem install jungle_test
 ```
-=======
->>>>>>> master
